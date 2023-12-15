@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello! I'm Harishan Amutheesan 🚀
 
-<!--
-**harishan-a/harishan-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a Software Engineering student with a passion for creating, learning, and contributing to the tech community.
 
-Here are some ideas to get you started:
+## 📘 About Me
+- 🎓 Studying **Software Engineering** at Carleton University.
+- 🌐 Fascinated by **Cloud Technologies**, **Full-Stack Development**, **Mobile App Development** and **Machine Learning**.
+- 🌟 2024 Goals: Expand my **Open Source Contributions** and delve deeper into **Cloud Architectures**.
+- ⚡ Fun fact: I'm also an avid photographer, capturing life's moments through my lens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Let's Connect
+- LinkedIn: [linkedin.com/in/harishan-a](https://linkedin.com/in/harishan-a)
+
+## 🛠️ Skills and Tools
+- Proficient in **Java, Python, Flutter, C, C++, HTML, CSS, JavaScript, VB**
+- Experienced with **Git, Docker, Linux, Azure**
+
+
+Interested in tech talks, collaborations, or just a friendly chat? Feel free to reach out!
